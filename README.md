@@ -4,8 +4,8 @@
 
 ## 开服基础教程
 
-- [TShock Tutorial](https://tr.monika.love/docs/tshock-tutorial-1/)
-- 或者访问: [TShock 开服基础教程](https://trhub.cn/threads/tshock.29/)
+- [TShock 开服基础教程](https://tr.monika.love/docs/tshock-tutorial-1/)
+- 或者访问: [TShock 开服基础教程2](https://trhub.cn/threads/tshock.29/)
 
 ---
 
