@@ -24,8 +24,9 @@
 
 ## 插件开发资源
 
-- **插件开发指南**: [TShock Plugin Development Guide](https://gitee.com/e7udyuu/tshock-plugin-document)
-
+- **插件开发指南**:
+- [TShock 插件教程Cai版](https://gitee.com/e7udyuu/tshock-plugin-document)
+- [TShock 插件教程RenderBr版](https://github.com/RenderBr/TShockTutorials)
 ---
 
 ## 常用插件资源
