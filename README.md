@@ -33,7 +33,7 @@
 
 ### 国内维护的插件库
 
-- **GitHub仓库**: [TShockPlugin](https://github.com/Controllerdestiny/TShockPlugin)
+- **GitHub仓库**: [TShockPlugin](https://github.com/UnrealMultiple/TShockPlugin)
 - **Gitee仓库（上面的镜像）**: [TShockPlugin](https://gitee.com/kksjsj/TShockPlugin)
 - **直接下载插件包**: [Plugins.zip](https://github.moeyy.xyz/https://github.com/Controllerdestiny/TShockPlugin/releases/download/V1.0.0.0/Plugins.zip)
 
