@@ -1,3 +1,5 @@
+
+**&gt; 简体中文 &lt;** | [English](README_en.md)
 # TShock 导航指南
 
 ---
