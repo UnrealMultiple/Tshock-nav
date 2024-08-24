@@ -2,7 +2,7 @@
 # TShock 导航指南 Navigation guide
 ---
 - (中文)表示该页面主要为中文
-- (English) Forum Plugin Resources
+- (English) Indicates the page is primarily in English
 - (多种语言 Multiple languages) 表示存在两种以上语言 Indicates the presence of two or more languages
 ---
 
