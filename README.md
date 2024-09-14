@@ -37,9 +37,10 @@
 
 ### 国内维护的插件库
 
+- **直接下载插件包（Github主仓库）**: [https://github.com/UnrealMultiple/TShockPlugin/releases/download/V1.0.0.0/Plugins.zip)
+- **直接下载插件包（Gitee国内镜像）**: [https://gitee.com/kksjsj/TShockPlugin/releases/download/V1.0.0.0/Plugins.zip)
 - **GitHub仓库**: [TShockPlugin](https://github.com/UnrealMultiple/TShockPlugin)(多种语言 Multiple languages)
 - **Gitee仓库（上面的镜像）**: [TShockPlugin](https://gitee.com/kksjsj/TShockPlugin)
-- **直接下载插件包**: [Plugins.zip](https://github.moeyy.xyz/https://github.com/UnrealMultiple/TShockPlugin/releases/download/V1.0.0.0/Plugins.zip)
 
 ### 官方插件库 TShock Official Plugin Repository
 
