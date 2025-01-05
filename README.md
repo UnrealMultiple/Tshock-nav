@@ -1,15 +1,10 @@
 
 # TShock 导航指南 Navigation guide
----
-- (中文)表示该页面主要为中文
-- (English) Indicates the page is primarily in English
-- (多种语言 Multiple languages) 表示存在两种以上语言 Indicates the presence of two or more languages
----
 
 ## 开服基础教程 Basic Server Setup Tutorial
 
-- [TShock 开服基础教程](https://tr.monika.love/docs/tshock-tutorial-1/)(中文)
-- 或者访问: [TShock 开服基础教程2](https://trhub.cn/threads/tshock.29/)(中文)
+- [TShock 开服基础教程](https://tr.monika.love/docs/tshock-tutorial-1/)
+- 或者访问: [TShock 开服基础教程2](https://trhub.cn/threads/tshock.29/)
 
 ---
 
@@ -22,25 +17,30 @@
 
 ## TShock 安装与下载 TShock Installation and Download
 
-- **GitHub项目页面**: [TShock Releases](https://github.com/Pryaxis/TShock/releases)(多种语言 Multiple languages)
+- **GitHub项目页面**: [TShock Releases](https://github.com/Pryaxis/TShock/releases)
 
 ---
 
 ## 插件开发资源 Plugin Development Resources
 
 - **插件开发指南**:
-- [TShock 插件教程Cai版](https://gitee.com/e7udyuu/tshock-plugin-document)(中文)
-- [TShock 插件教程RenderBr版](https://github.com/RenderBr/TShockTutorials)(English)
+- [TShock 插件教程Cai版](https://gitee.com/e7udyuu/tshock-plugin-document)
+- [TShock 插件教程RenderBr版](https://github.com/RenderBr/TShockTutorials)
 ---
 
 ## 常用插件资源 Commonly Used Plugin Resources
 
 ### 国内维护的插件库
-
+- **插件介绍文档网站**：[terraria.ink](http://docs.terraria.ink/zh/)
+- **直接下载插件包A(github.moeyy.xyz国内镜像下载)**[Plugins.zip](https://github.moeyy.xyz/https://github.com/UnrealMultiple/TShockPlugin/releases/download/V1.0.0.0/Plugins.zip)
+- **直接下载插件包A(ApmApi国内自建)**: [Plugins.zip](http://api.terraria.ink:11434/plugin/get_all_plugins)
 - **直接下载插件包（Github主仓库）**: [Plugins.zip](https://github.com/UnrealMultiple/TShockPlugin/releases/download/V1.0.0.0/Plugins.zip)
-- **直接下载插件包（Gitee国内镜像）**: [Plugins.zip](https://gitee.com/kksjsj/TShockPlugin/releases/download/V1.0.0.0/Plugins.zip)
 - **GitHub仓库**: [TShockPlugin](https://github.com/UnrealMultiple/TShockPlugin)(多种语言 Multiple languages)
-- **Gitee仓库（上面的镜像）**: [TShockPlugin](https://gitee.com/kksjsj/TShockPlugin)
+- <details>
+  <summary>已经死了或者不好用的也不会救的</summary>
+  **直接下载插件包（Gitee国内镜像）**: [Plugins.zip](https://gitee.com/kksjsj/TShockPlugin/releases/download/V1.0.0.0/Plugins.zip)(辣鸡gitee，滚)
+  **Gitee仓库（上面的镜像）**: [TShockPlugin](https://gitee.com/kksjsj/TShockPlugin)(辣鸡gitee，滚)
+</details>
 
 ### 官方插件库 TShock Official Plugin Repository
 
