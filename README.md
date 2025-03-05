@@ -10,8 +10,8 @@
 
 ## 指令权限配置文档 Command Permission Configuration Document
 
-- **官方文档**: [TShock Permissions Documentation](https://github.com/Pryaxis/TShock/wiki)
-- **官方文档镜像** :[Gitee TShock](https://gitee.com/THEXN/TShock/wikis/Home)
+- **官方文档**: [TShock Wiki](https://github.com/Pryaxis/TShock/wiki)
+- **官方文档镜像** :[Gitee TShock Wiki](https://gitee.com/THEXN/TShock/wikis/Home)
 - 下面这个逐渐会移动到官方文档
 - **中文版** (个人制作，欢迎指正): [TShock 帮助文档中文版](https://niaoluo.top/docs/tshock%e5%b8%ae%e5%8a%a9%e6%96%87%e6%a1%a3%e4%b8%ad%e6%96%87%e7%89%88/)
 
